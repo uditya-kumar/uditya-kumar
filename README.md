@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently focused on improving my skills in Data Structures & Algorithms and Android Development. I’m also passionate about exploring the fields of AI and Machine Learning. I love to build and learn new things, and I'm excited to collaborate on innovative projects!
+Full-stack developer building scalable web, mobile, and AI-powered applications used by real users. Experienced in React, Node.js, and AI-driven systems, with strong ownership from architecture to deployment.
 
 
 ## 🌐 Socials:
