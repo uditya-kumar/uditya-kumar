@@ -1,16 +1,89 @@
-# 💫 About Me:
-Full-stack developer building scalable web, mobile, and AI-powered applications used by real users. Experienced in React, Node.js, and AI-driven systems, with strong ownership from architecture to deployment.
+<h1 align="center">Hey, I'm Uditya Kumar Pandey</h1>
 
+<h3 align="center">Full-Stack Developer • AI & Agentic Systems Builder</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/udityakumar/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/udityakumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uditya204@gmail.com) 
+<p align="center">
+  Building products with <b>AI agents, MCP, full-stack web & mobile technologies.</b>
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=uditya-kumar&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=uditya-kumar&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uditya-kumar&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/uditya-kumar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/udityakumar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:uditya204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=uditya-kumar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### About Me
+
+I'm a Full Stack developer who enjoys turning ideas into **real, usable products**.
+
+Currently, I'm focused on:
+
+- Building **AI agents & autonomous workflows**
+- Exploring **Model Context Protocol (MCP)** and tool-driven LLM systems
+- Developing scalable **full-stack applications**
+- Building cross-platform apps with **React Native**
+- Contributing to **open-source projects**
+
+I especially enjoy working on systems where AI can **use tools, interact with APIs, reason across workflows, and take action**.
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,kotlin" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,docker,androidstudio" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/openai/412991" height="45" alt="OpenAI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/191919" height="45" alt="Anthropic" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="45" alt="Gemini" />
+</p>
+
+<p align="center">
+  <b>OpenAI Agents SDK • Claude Agent SDK • MCP • LLM Apps • Tool Calling • Agentic Workflows</b>
+</p>
+---
+
+### GitHub
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=uditya-kumar&show_icons=true&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditya-kumar&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=uditya-kumar&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <b>Always interested in AI, open source, developer tools, and building things people actually use.</b>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/udityakumar">LinkedIn</a>
+  •
+  <a href="mailto:uditya204@gmail.com">Email</a>
+  •
+  <a href="https://github.com/uditya-kumar">GitHub</a>
+</p>
